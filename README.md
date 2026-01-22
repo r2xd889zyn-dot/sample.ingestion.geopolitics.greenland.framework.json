@@ -1,6 +1,6 @@
 # Sample Ingestion Files — Millings Method
 
-This directory contains **sample ingestion records** demonstrating how the
+This directory contains sample ingestion records demonstrating how the
 Millings Method captures and evaluates public commentary, media narratives,
 and disputed claims.
 
