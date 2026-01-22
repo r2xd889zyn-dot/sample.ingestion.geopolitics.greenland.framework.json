@@ -5,11 +5,10 @@ Millings Method captures and evaluates public commentary, media narratives,
 and disputed claims.
 
 ## Purpose
-These files are **illustrative only**. They show:
+These files are illustrative only. They show:
 - How claims are recorded from public sources
 - Which governance constraints are detected
-- Why execution defaults to **REFUSE** when authority, artifacts, or binding
-  language are absent
+- Why execution defaults to **REFUSE** when authority, artifacts, or binding language are absent
 
 ## How to Read These Files
 - `claims` list reported assertions, not verified facts
