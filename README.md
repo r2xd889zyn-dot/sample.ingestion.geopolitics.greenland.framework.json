@@ -1,3 +1,8 @@
+# Sample Ingestion Files - Millings Method
+## Purpose
+## How to Read These Files
+## What These Files Are Not
+## Governance
 # Sample Ingestion Files — Millings Method
 
 This directory contains sample ingestion records demonstrating how the
@@ -8,12 +13,12 @@ and disputed claims.
 These files are illustrative only. They show:
 - How claims are recorded from public sources
 - Which governance constraints are detected
-- Why execution defaults to **REFUSE** when authority, artifacts, or binding language are absent
+- Why execution defaults to REFUSE when authority, artifacts, or binding language are absent
 
 ## How to Read These Files
-- `claims` list reported assertions, not verified facts
-- `constraints_detected` are governance flags, not accusations
-- `execution_result: "REFUSE"` indicates a **successful governance outcome**
+- claims list reported assertions, not verified facts
+- constraints_detected are governance flags, not accusations
+- execution_result: "REFUSE" indicates a successful governance outcome
 - No causation, intent, or truth determination is implied
 
 ## What These Files Are Not
